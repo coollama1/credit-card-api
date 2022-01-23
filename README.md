@@ -7,12 +7,14 @@ The credit card validator API accepts requests with a request parameter "cardNum
 Several request examples are displayed below through Postman
 
 <br>
+
 ![](images/invalid-credit-card-request.png)
 <br>
 
 The above picture displays what response an invalid card number request displays. The card length, control sum, and payment system are all invalid.
 
 <br>
+
 ![](images/valid-credit-card-request.png)
 <br>
 
