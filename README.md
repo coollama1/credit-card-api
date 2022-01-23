@@ -22,10 +22,6 @@ The above picture shows the response that is returned when valid card number req
 
 <br>
 
-![](images/invalid-credit-card-request-correct-length.png)
-
-<br>
-Here a card number with a valid length is provided, but the control sum and payment method are both not valid
 
 ## Testing
 
