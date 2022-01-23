@@ -3,7 +3,7 @@
 <br>
 
 The credit card validator API accepts requests with a request parameter "cardNumber", which has a value of the credit card number being validated. A JSON response is returned with the values isCardValid, which is true when the card is valid, false otherwise, an array of error messages displaying what makes the card number invalid, and "cardType", which displays the type of credit card provided.
-<br>
+<br><br>
 Several request examples are displayed below through Postman
 
 <br>
@@ -19,6 +19,13 @@ The above picture displays what response an invalid card number request displays
 <br>
 
 The above picture shows the response that is returned when valid card number request is provided.
+
+<br>
+
+![](images/invalid-credit-card-request-correct-length.png)
+
+<br>
+Here a card number with a valid length is provided, but the control sum and payment method are both not valid
 
 ## Testing
 
