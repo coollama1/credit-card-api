@@ -1,4 +1,4 @@
-package com.coolprojects.utilities;
+package com.projects.cardvalidator.utilities;
 
 public class Utilities {
 

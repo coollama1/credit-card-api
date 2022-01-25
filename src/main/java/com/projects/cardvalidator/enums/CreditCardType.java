@@ -1,4 +1,4 @@
-package com.coolprojects.enums;
+package com.projects.cardvalidator.enums;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.coolprojects.validator;
+package com.projects.cardvalidator.validator;
 
 import java.util.List;
 

@@ -1,7 +1,7 @@
-package com.coolprojects.validator;
+package com.projects.cardvalidator.validator;
 
-import com.coolprojects.enums.CreditCardType;
-import com.coolprojects.utilities.Utilities;
+import com.projects.cardvalidator.enums.CreditCardType;
+import com.projects.cardvalidator.utilities.Utilities;
 
 public class PaymentSystemEvaluator {
     /**

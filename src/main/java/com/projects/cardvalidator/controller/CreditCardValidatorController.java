@@ -1,4 +1,4 @@
-package com.coolprojects.controller;
+package com.projects.cardvalidator.controller;
 
 import java.util.List;
 
@@ -6,11 +6,11 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.coolprojects.enums.CreditCardType;
-import com.coolprojects.response.CreditCardValidatorResponse;
-import com.coolprojects.validator.CreditCardValidator;
-import com.coolprojects.validator.PaymentSystemEvaluator;
-import com.coolprojects.validator.Validator;
+import com.projects.cardvalidator.enums.CreditCardType;
+import com.projects.cardvalidator.response.CreditCardValidatorResponse;
+import com.projects.cardvalidator.validator.CreditCardValidator;
+import com.projects.cardvalidator.validator.PaymentSystemEvaluator;
+import com.projects.cardvalidator.validator.Validator;
 
 @RestController
 public class CreditCardValidatorController {

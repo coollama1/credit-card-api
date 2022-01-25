@@ -1,8 +1,8 @@
-package com.coolprojects.response;
+package com.projects.cardvalidator.response;
 
 import java.util.List;
 
-import com.coolprojects.enums.CreditCardType;
+import com.projects.cardvalidator.enums.CreditCardType;
 
 public class CreditCardValidatorResponse {
 

@@ -6,8 +6,8 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Nested;
 import org.junit.jupiter.api.Test;
 
-import com.coolprojects.enums.CreditCardType;
-import com.coolprojects.validator.PaymentSystemEvaluator;
+import com.projects.cardvalidator.enums.CreditCardType;
+import com.projects.cardvalidator.validator.PaymentSystemEvaluator;
 
 public class PaymentSystemEvaluatorTests {
     private PaymentSystemEvaluator paymentSystemEvaluator = new PaymentSystemEvaluator();
