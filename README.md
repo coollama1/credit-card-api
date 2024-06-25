@@ -7,11 +7,11 @@ The credit card validator API accepts requests with a request parameter "cardNum
 
 ### Swagger Examples
   
-<img src="images/valid-credit-card-validation-swagger.PNG" width="1000" height="700">
+![](images/valid-credit-card-validation-swagger.PNG)
 The above picture shows a <strong>valid</strong> response for credit card #: <strong>5455 0049 4554 7488</strong>
 <br><br><br>
 
-<img src="images/invalid-credit-card-validation-swagger.PNG" width="1000" height="700"> 
+![](images/invalid-credit-card-validation-swagger.PNG)
 The above picture shows an <strong>invalid</strong> response for credit card #: <strong>182 5227 7110 1601 7970</strong> 
 
 <br><br>
