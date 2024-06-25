@@ -1,6 +1,7 @@
 package com.projects.cardvalidator.validator;
 
 import java.util.ArrayList;
+
 import java.util.List;
 
 import com.projects.cardvalidator.enums.CreditCardType;
